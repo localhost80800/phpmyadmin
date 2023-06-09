@@ -9,6 +9,7 @@ body{
     background-image: url(img/slika1.png);
     position: relative;
     background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .container{
