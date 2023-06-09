@@ -23,7 +23,7 @@ body{
     position: absolute;
     z-index: 20;
     right: 30px;
-    bottom: 173px;
+    top: 9px;
     display: flex;
     justify-content: end;
     align-items: end;
